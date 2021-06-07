@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805818119012",
+    "project_id": "prash-3b3f2",
+    "storage_bucket": "prash-3b3f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805818119012:android:fff618523a158e8dac8071",
+        "android_client_info": {
+          "package_name": "com.example.prash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805818119012-rcavj3gujpia6nm50i62r9mod1gh1jsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFToAeqA9wXxtsLMqJfs-t0KRRAocx0nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805818119012-rcavj3gujpia6nm50i62r9mod1gh1jsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
